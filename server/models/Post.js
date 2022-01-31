@@ -19,8 +19,3 @@ const PostSchema = new mongoose.Schema({
 }, { timestamps: true });
 
 module.exports = mongoose.model("Post", PostSchema);
-<<<<<<< HEAD:Backend-RestApi-Nodejs/models/Post.js
-//I am Ready to contribute
-=======
-//i am adding command
->>>>>>> a1b5b4bcd19ae9d139f4392a052b0266a81cc45d:server/models/Post.js
