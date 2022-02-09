@@ -5,9 +5,9 @@ export default function Register() {
     <div className="login">
       <div className="loginWrapper">
         <div className="loginLeft">
-          <h3 className="loginLogo">Lamasocial</h3>
+          <h3 className="loginLogo">TRIBEout</h3>
           <span className="loginDesc">
-            Connect with friends and the world around you on Lamasocial.
+          Connect with health workers, health orgnizations, hospitals, medicals, students, professionals and the world around you on TRIBEout.
           </span>
         </div>
         <div className="loginRight">
